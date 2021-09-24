@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+
+pillow
+PyQt5
+azure-cognitiveservices-vision-computervision
+
+numpy
+opencv-python
+pyautogui
+pynput
